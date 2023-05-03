@@ -1,0 +1,9 @@
+{
+	"name": "DivyaADF2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9b7d6f72-3a01-4081-881f-df132a5fd709",
+		"tenantId": "751cce9e-2178-4727-ac27-6b3ad43b23c6"
+	}
+}
