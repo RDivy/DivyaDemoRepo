@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "DivyaADF2"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
